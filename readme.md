@@ -48,9 +48,4 @@ We use a public dataset containing patient appointment information, including:
 
 Contributions, suggestions, and feedback welcome! Please open issues or pull requests.
 
-## License
-
-MIT License
-
----
 
